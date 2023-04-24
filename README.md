@@ -11,9 +11,11 @@ In my portfolio, you can find my projects and guides on data analytics,
 - Exploratory data analysis
 
 ### 🛠️ My Tools
-- Databases: SQL (PostgreSQL, MySQL), Excel
-- Python:  Pandas
+- Databases: SQL (MySQL, PostgreSQL)
 - Visualisation: Power BI
+- Excel
+- Python:  Pandas
+
 
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/mythily-ram-795b1521/)
